@@ -1,7 +1,7 @@
 package main
 
 import (
-	t "ESAPI_Test/elastic-go"
+	t "github.com/fwhezfwhez/elastic-go-tool"
 	"fmt"
 	"reflect"
 )
@@ -113,3 +113,5 @@ func main() {
 		panic(err)
 	}
 }
+
+
