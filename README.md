@@ -37,9 +37,9 @@ var mapping = `
 **go type=search_phase_execution_exception**
 
 ##使用方法##
-1.确保安装了git for windows
-2.打开命令行cmd 使用"go get github.com/fwhezfwhez/elastic-go-tool"
-3.具体使用查看example.go
+1. 确保安装了git for windows
+2. 打开命令行cmd 使用"go get github.com/fwhezfwhez/elastic-go-tool"
+3. 具体使用查看example.go
 ##版本##
 v1版本还略微简陋，后续将更新以下:
 1.将配置方式以toml的形式配置
