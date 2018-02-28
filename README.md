@@ -48,7 +48,7 @@ v1版本还略微简陋，后续将更新以下:
 package main
 
 import (
-	t "ESAPI_Test/elastic-go"
+	t "github.com/fwhezfwhez/elastic-go-tool"
 	"fmt"
 	"reflect"
 )
@@ -160,5 +160,7 @@ func main() {
 		panic(err)
 	}
 }
+
+
 
 ```
